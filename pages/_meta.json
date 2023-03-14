@@ -1,0 +1,20 @@
+{
+	"index": {
+		"title": "home",
+		"type": "page"
+	},
+	"learn": {
+		"title": "learn",
+		"type": "page"
+	},
+	"user": {
+		"title": "login",
+		"type": "page",
+
+		"theme": {
+			"breadcrumb": false,
+			"sidebar": false,
+			"toc": false
+		}
+	}
+}
