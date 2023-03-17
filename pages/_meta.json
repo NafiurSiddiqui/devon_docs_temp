@@ -7,14 +7,8 @@
 		"title": "learn",
 		"type": "page"
 	},
-	"user": {
+	"login": {
 		"title": "login",
-		"type": "page",
-
-		"theme": {
-			"breadcrumb": false,
-			"sidebar": false,
-			"toc": false
-		}
+		"type": "page"
 	}
 }

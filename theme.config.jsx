@@ -2,6 +2,13 @@ export default {
 	logo: <span>Devon</span>,
 
 	search: {
-		placeholder: 'looking up here',
+		component: false,
 	},
+	// navbar: {
+	// 	component: (
+	// 		<nav>
+	// 			<div>Logo</div>
+	// 		</nav>
+	// 	),
+	// },
 };
